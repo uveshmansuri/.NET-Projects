@@ -1,0 +1,20 @@
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\bin\Debug\Student Manager.exe
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\bin\Debug\Student Manager.pdb
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\bin\Debug\Student Manager.xml
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\obj\x86\Debug\Student_Manager.Form1.resources
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\obj\x86\Debug\Student_Manager.Resources.resources
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\obj\x86\Debug\Student Manager.vbproj.GenerateResource.Cache
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\obj\x86\Debug\Student Manager.exe
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\obj\x86\Debug\Student Manager.xml
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\obj\x86\Debug\Student Manager.pdb
+D:\Uvesh Study\SY BCA\.net projects\Student Manager\Student Manager\obj\x86\Debug\Student_Manager.Form2.resources
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\obj\x86\Debug\Student Manager.exe
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\obj\x86\Debug\Student Manager.xml
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\obj\x86\Debug\Student Manager.pdb
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\bin\Debug\Student Manager.exe
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\bin\Debug\Student Manager.pdb
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\bin\Debug\Student Manager.xml
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\obj\x86\Debug\Student_Manager.Form1.resources
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\obj\x86\Debug\Student_Manager.Form2.resources
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\obj\x86\Debug\Student_Manager.Resources.resources
+D:\Uvesh Study\SY BCA\.net projects\temp git\Student Manager\Student Manager\obj\x86\Debug\Student Manager.vbproj.GenerateResource.Cache

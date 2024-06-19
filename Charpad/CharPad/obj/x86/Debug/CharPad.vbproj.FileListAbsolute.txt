@@ -1,0 +1,13 @@
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\obj\x86\Debug\CharPad.Form2.resources
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\obj\x86\Debug\CharPad.Resources.resources
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\obj\x86\Debug\CharPad.vbproj.GenerateResource.Cache
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\obj\x86\Debug\CharPad.exe
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\obj\x86\Debug\CharPad.xml
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\obj\x86\Debug\CharPad.pdb
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\obj\x86\Debug\CharPad.Form1.resources
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\bin\Debug\CharPad.exe
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\bin\Debug\CharPad.pdb
+D:\Uvesh Study\SY BCA\Sem4\VB.Net\Assingment6\Assingment6\bin\Debug\CharPad.xml
+D:\Uvesh Study\SY BCA\.net projects\Charpad\Assingment6\obj\x86\Debug\CharPad.exe
+D:\Uvesh Study\SY BCA\.net projects\Charpad\Assingment6\obj\x86\Debug\CharPad.xml
+D:\Uvesh Study\SY BCA\.net projects\Charpad\Assingment6\obj\x86\Debug\CharPad.pdb
